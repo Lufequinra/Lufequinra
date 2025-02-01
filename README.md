@@ -20,17 +20,17 @@ I'm a colombian programmer who loves reading and writing novels in hope of them 
 
 ## *💻 Experience*
 <a href="https://github.com/Luquinra"><img align="right" width="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8097fc33-81ae-41e6-922e-37f504942042/dfd9xpu-c5c10326-caa0-4464-8824-384e2406ca4b.png/v1/fill/w_300,h_300/kyo_chibi_render_by_me_by_lizzymelli_dfd9xpu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwIiwicGF0aCI6IlwvZlwvODA5N2ZjMzMtODFhZS00MWU2LTkyMmUtMzdmNTA0OTQyMDQyXC9kZmQ5eHB1LWM1YzEwMzI2LWNhYTAtNDQ2NC04ODI0LTM4NGUyNDA2Y2E0Yi5wbmciLCJ3aWR0aCI6Ijw9MzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.88-xLWzhJqjrYZo99qg8n_t-7GytIGuHJ2lrWbzgQNQ"></a>
-I'm currently studying software engineering at [Pontifical Xavierian University](https://www.javeriana.edu.co/inicio). Three years of College have passed, and I am still learning. I hope I learn even more in the future. I have completed a 3-year robot design, assembly and programming program at SENA. 
+I'm currently studying software engineering at [Pontifical Xavierian University](https://www.javeriana.edu.co/inicio). This is my last year as a student and I couldn't be more excited. I hope I learn even more in the future. I have completed a 3-year robot design, assembly and programming program at SENA. Currently working as an intern at [Opella](https://www.opella.com/en).
 
 
 ## *📊 Github Stats*
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Luquinra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luquinra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Lufequinra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lufequinra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 ## *🧋Visit Counter*
 
-<a href="https://discord.com/users/738418904870813878"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@luquinra?theme=rule34"></a>
-<a href="https://github.com/Luquinra"><img align="left" width="100" src="https://i.pinimg.com/originals/49/c4/72/49c47212134a43472050c38cb2bec5b6.png"></a>
+<a href="https://discord.com/users/738418904870813878"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@lufequinra?theme=rule34"></a>
+<a href="https://github.com/Lufequinra"><img align="left" width="100" src="https://i.pinimg.com/originals/49/c4/72/49c47212134a43472050c38cb2bec5b6.png"></a>
 
 yaml
 People who visit my profile :3.
