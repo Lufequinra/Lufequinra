@@ -36,6 +36,9 @@ yaml
 People who visit my profile :3.
 
 
+![Snake animation](https://raw.githubusercontent.com/Lufequinra/Lufequinra/output/github-contribution-grid-snake-dark.svg)
+
+
 ## *📫 Contact*
 <a href="https://github.com/Luquinra"><img align="right" width="100" src="https://i.pinimg.com/originals/7c/3f/29/7c3f2916ed7f7d39803e4a2afaf0e642.gif" /></a>
 *Please Contact me on Discord for a quick response:* [muchaluchaxd](https://discord.com/users/738418904870813878)
