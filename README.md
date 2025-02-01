@@ -36,7 +36,7 @@ yaml
 People who visit my profile :3.
 
 
-![Snake animation](https://raw.githubusercontent.com/Lufequinra/Lufequinra/output/github-contribution-grid-snake-dark.svg)
+<3
 
 
 ## *📫 Contact*
